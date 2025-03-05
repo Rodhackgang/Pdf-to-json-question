@@ -1,0 +1,33 @@
+; 42. Qui est le premier explorateur français à être reçu par le Mogho
+Naaba ?
+- » Binger (Louis-Gustave) en 1888.
+Ês 43. Quel Mogho Naaba a reçu Binger en 1888 ?
+> Naaba Sanem en 1888).
+44. Qui est l’explorateur français qui a signé un traité de protectorat avec
+le Mogho Naaba ?
+> Voulet (Paul Gustave Lucien).
+45.  Quel Mogho Naaba a signé un traité de protectorat avec Voulet ?
+> Mogho Naaba Siguiri (Kouka Koutou de son vrai nom).
+46.  Quel est la date de signature du traité de protectorat français avec le
+Royaume de Ouagadougou ?
+> Le 20 janvier 1897 entre le Mogho Naaba Siguiri et le capitaine
+Voulet
+47.  Qui est l’explorateur français ayant signé un traité de protectorat avec
+Naaba Baongo du royaume du Yatenga ?
+; » Le capitaine Destenave.
+# 48. Il est un explorateur écossais, l’un des premiers européens à explorer
+le fleuve Niger. Il meurt par noyade en1806 dans les rapides de Boussa
+E (fleuve Niger). De qui s’agit-il ?
+; > Mungo Park
+49.  Quelle est la date de création ou de première édition des organisations
+suivantes : FESPACO, SNC, SIAO, NAK ? ;
+Date de création ou de première édition {
+FESPACO Février 1969
+20 au 30 décembre 1983 ; _
+SIAO: 20 au 27 février 1988 à Ouagadougou
+1996 I Fs EN
+50.  Que signifie CAMES et où se trouve son siège ?
+> CAMES = Conseil africain et malgache de l’enseignement supérieur.
+Son siège est à Ouagadougou.
+- 51.  Quel est le nombre de pays membre du CAMES ?
+25

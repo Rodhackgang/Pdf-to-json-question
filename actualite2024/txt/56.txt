@@ -1,0 +1,26 @@
+Apiculture : élevage des abeilles,
+Oviculture : élevage des moutons,
+Boviculture : élevage des bœufs,
+Aviculture : élevage des oiseaux,
+Sériciculture : élevage des vers à soie,
+Capriculture : élevage des chèvres,
+Pisciculture : élevage des poissons,
+Acipensericulture : élevage des esturgeons,
+Salmoniculture : élevage des saumons,
+Caniculture : élevage des chiens,
+Féliculture : élevage des chats,
+Héliciculture : élevage des escargots,
+Conchylioculture : élevage de coquillages,
+Colombiculture : élevage des pigeons,
+Cypriniculture : élevage des carpes et des tanches,
+Méléagriculture : élevage des pintades,
+Truiticulture ou trutticulture : élevage des truites.
+Cerviculture : élevage des cervidés,
+
+Renniculture : élevage des rennes
+
+Raniculture : élevage de grenouilles,
+Ansériculture : élevage des oies,
+
+Porciculture : élevage des porcs.
+Scanned by CamScanner

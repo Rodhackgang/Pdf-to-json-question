@@ -1,0 +1,1010 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Formation 1",
+      "description": "Ceci est une formation adéquate aux concours direct du Burkina Faso",
+      "details": [
+        {
+          "questionId": 1,
+          "questionText": "De quoi est décédée la reine Elizabeth II ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Palu"
+            },
+            {
+              "id": "B",
+              "text": "Méningite"
+            },
+            {
+              "id": "C",
+              "text": "Cancer"
+            },
+            {
+              "id": "D",
+              "text": "Vieillesse"
+            }
+          ],
+          "correctAnswers": [
+            "D"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 2,
+          "questionText": "La CAN 2024 aura-t-elle lieu en Côte d'Ivoire du 13 janvier au 11 février ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Vrai"
+            },
+            {
+              "id": "B",
+              "text": "Faux"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 3,
+          "questionText": "Qui a reçu le prix Nobel de littérature 2023 ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Arnaud Brul"
+            },
+            {
+              "id": "B",
+              "text": "Anne Marie"
+            },
+            {
+              "id": "C",
+              "text": "Annie Ernaux"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 4,
+          "questionText": "Volodymyr Zelensky a-t-il obtenu le prix Nobel de la paix 2023 ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Faux"
+            },
+            {
+              "id": "B",
+              "text": "Vrai"
+            },
+            {
+              "id": "C",
+              "text": "Je ne sais pas"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 5,
+          "questionText": "Quand a eu lieu la visite du premier ministre burkinabé au Venezuela ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "10 mai"
+            },
+            {
+              "id": "B",
+              "text": "11 mai"
+            },
+            {
+              "id": "C",
+              "text": "9 mai"
+            },
+            {
+              "id": "D",
+              "text": "14 mai"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 6,
+          "questionText": "L'initiative présidentielle \"Référent - opportunité - insertion\" a été lancée le 17 juin 2023.",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Vrai"
+            },
+            {
+              "id": "B",
+              "text": "Faux"
+            },
+            {
+              "id": "C",
+              "text": "Le 17 juillet 2023"
+            },
+            {
+              "id": "D",
+              "text": "Le 17 mai 2023"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 7,
+          "questionText": "Quelle est la date de mise en circulation des nouveaux timbres ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "16 juin 2024"
+            },
+            {
+              "id": "B",
+              "text": "19 juin 2023"
+            },
+            {
+              "id": "C",
+              "text": "14 janvier 2024"
+            },
+            {
+              "id": "D",
+              "text": "Néant"
+            }
+          ],
+          "correctAnswers": [
+            "B"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 8,
+          "questionText": "La loi sur la promotion immobilière a été adoptée le 20 juin 2023 :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "à la majorité simple"
+            },
+            {
+              "id": "B",
+              "text": "à l'unanimité"
+            },
+            {
+              "id": "C",
+              "text": "Par consensus"
+            },
+            {
+              "id": "D",
+              "text": "à la majorité qualifiée"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 9,
+          "questionText": "Le dernier crash d'un drone burkinabé est intervenu le 21 juin 2023.",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Vrai"
+            },
+            {
+              "id": "B",
+              "text": "Faux"
+            },
+            {
+              "id": "C",
+              "text": "Le 20 juin 2023"
+            },
+            {
+              "id": "D",
+              "text": "Le 22 juin 2023"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 10,
+          "questionText": "Date d'adoption de la nouvelle constitution du Mali :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "23 juin 2023"
+            },
+            {
+              "id": "B",
+              "text": "20 juin 2023"
+            },
+            {
+              "id": "C",
+              "text": "17 juin 2023"
+            },
+            {
+              "id": "D",
+              "text": "Néant"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 11,
+          "questionText": "Quelle était la performance de Marthe Koala au meeting de Bron en juillet 2023 ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "5m55"
+            },
+            {
+              "id": "B",
+              "text": "7m40"
+            },
+            {
+              "id": "C",
+              "text": "6m00"
+            },
+            {
+              "id": "D",
+              "text": "06m62"
+            }
+          ],
+          "correctAnswers": [
+            "D"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 12,
+          "questionText": "Combien de pays ont participé à la réunion ministérielle de la coalition mondiale contre Daech ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "67"
+            },
+            {
+              "id": "B",
+              "text": "75"
+            },
+            {
+              "id": "C",
+              "text": "86"
+            },
+            {
+              "id": "D",
+              "text": "92"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 13,
+          "questionText": "La 2e édition de la journée de l'artisanat minier a eu lieu à :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Pô"
+            },
+            {
+              "id": "B",
+              "text": "Ouagadougou"
+            },
+            {
+              "id": "C",
+              "text": "Tenkodogo"
+            },
+            {
+              "id": "D",
+              "text": "Gaoua"
+            }
+          ],
+          "correctAnswers": [
+            "D"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 14,
+          "questionText": "Combien de personnes ont été expulsées du Ghana le 12 juillet 2023 ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "300"
+            },
+            {
+              "id": "B",
+              "text": "150"
+            },
+            {
+              "id": "C",
+              "text": "250"
+            },
+            {
+              "id": "D",
+              "text": "300"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 15,
+          "questionText": "Quelle est la date d'entrée en vigueur du paiement des contraventions en ligne ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "11 juillet 2023"
+            },
+            {
+              "id": "B",
+              "text": "15 juillet 2023"
+            },
+            {
+              "id": "C",
+              "text": "18 juin 2023"
+            },
+            {
+              "id": "D",
+              "text": "25 juillet 2023"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 16,
+          "questionText": "Que signifie ZIM ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Zone inter-media"
+            },
+            {
+              "id": "B",
+              "text": "Zone d'intérêt militaire"
+            },
+            {
+              "id": "C",
+              "text": "Zone d'intérêt du personnel de la magistrature"
+            },
+            {
+              "id": "D",
+              "text": "Néant"
+            }
+          ],
+          "correctAnswers": [
+            "B"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 17,
+          "questionText": "L'actuel DG des impôts est Daouda Kirakoya.",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Vrai"
+            },
+            {
+              "id": "B",
+              "text": "Faux"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 18,
+          "questionText": "L'actuel entraîneur des étalons dames est Pascal Sawadogo.",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Je ne sais pas"
+            },
+            {
+              "id": "B",
+              "text": "Ça dépend"
+            },
+            {
+              "id": "C",
+              "text": "Vrai"
+            },
+            {
+              "id": "D",
+              "text": "Faux"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 19,
+          "questionText": "Le nombre de prix décernés à la 28e édition du Fespaco était :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "23"
+            },
+            {
+              "id": "B",
+              "text": "16"
+            },
+            {
+              "id": "C",
+              "text": "27"
+            },
+            {
+              "id": "D",
+              "text": "21"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 20,
+          "questionText": "La première presse Burkinabé est :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Le pays"
+            },
+            {
+              "id": "B",
+              "text": "Le quotidien"
+            },
+            {
+              "id": "C",
+              "text": "L'observateur paalga"
+            },
+            {
+              "id": "D",
+              "text": "Néant"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 21,
+          "questionText": "L'attaque terroriste sur l'axe Bittou-Cinkansé ayant fait 20 morts a eu lieu le :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "6 Août"
+            },
+            {
+              "id": "B",
+              "text": "7 Août"
+            },
+            {
+              "id": "C",
+              "text": "4 Août"
+            },
+            {
+              "id": "D",
+              "text": "3 Août"
+            }
+          ],
+          "correctAnswers": [
+            "B"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 22,
+          "questionText": "L'opération Sabre a pris fin le :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "18 février 2023"
+            },
+            {
+              "id": "B",
+              "text": "16 février 2023"
+            },
+            {
+              "id": "C",
+              "text": "3 janvier 2023"
+            },
+            {
+              "id": "D",
+              "text": "4 mars 2023"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 23,
+          "questionText": "Robert Guéï est mort à l'âge de :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "61 ans"
+            },
+            {
+              "id": "B",
+              "text": "65 ans"
+            },
+            {
+              "id": "C",
+              "text": "70 ans"
+            },
+            {
+              "id": "D",
+              "text": "68 ans"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 24,
+          "questionText": "Ali Mahamane est-il l'actuel Premier ministre du Niger ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Vrai"
+            },
+            {
+              "id": "B",
+              "text": "Faux"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 25,
+          "questionText": "Le nombre de prix spéciaux remportés par le Burkina Faso au FESPACO 2023 est :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "9"
+            },
+            {
+              "id": "B",
+              "text": "10"
+            },
+            {
+              "id": "C",
+              "text": "8"
+            },
+            {
+              "id": "D",
+              "text": "7"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Formation 2",
+      "description": "Ceci est une formation adéquate aux concours direct du Burkina Faso",
+      "details": [
+        {
+          "questionId": 1,
+          "questionText": "Comment appelle-t-on un mot qui se rapproche d'un autre par sa sonorité et sa graphie ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Antonyme"
+            },
+            {
+              "id": "B",
+              "text": "Homonyme"
+            },
+            {
+              "id": "C",
+              "text": "Paronyme"
+            },
+            {
+              "id": "D",
+              "text": "Synonyme"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 2,
+          "questionText": "Quelle conférence a consacré la naissance de l'ONU ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Conférence de Berlin"
+            },
+            {
+              "id": "B",
+              "text": "Conférence de Munich"
+            },
+            {
+              "id": "C",
+              "text": "Conférence de la Haye"
+            },
+            {
+              "id": "D",
+              "text": "Conférence de San Francisco"
+            }
+          ],
+          "correctAnswers": [
+            "D"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 3,
+          "questionText": "Quelle est la date d'adoption de la politique Nationale de sécurisation du Burkina Faso ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "7 octobre 2020"
+            },
+            {
+              "id": "B",
+              "text": "7 Octobre 201..."
+            },
+            {
+              "id": "C",
+              "text": "8 Octobre 2021"
+            },
+            {
+              "id": "D",
+              "text": "6 octobre 2021"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 4,
+          "questionText": "Le slogan du musée national est : 'Le musée national du Burkina, plus qu'un lieu de mémoire'.",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Faux"
+            },
+            {
+              "id": "B",
+              "text": "Vrai"
+            }
+          ],
+          "correctAnswers": [
+            "B"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 5,
+          "questionText": "Quand a eu lieu la signature de l'accord de non double imposition entre la France et le Burkina ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Le 11 Août 1965"
+            },
+            {
+              "id": "B",
+              "text": "Le 8 Août 1966"
+            },
+            {
+              "id": "C",
+              "text": "Le 7 janvier 1959"
+            },
+            {
+              "id": "D",
+              "text": "Le 9 juillet 1960"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 6,
+          "questionText": "En quelle année est né Apolline Traoré ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "1976"
+            },
+            {
+              "id": "B",
+              "text": "1986"
+            },
+            {
+              "id": "C",
+              "text": "1984"
+            },
+            {
+              "id": "D",
+              "text": "1979"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 7,
+          "questionText": "Quelle est la discipline sportive de Hugues Fabrice Zongo ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Le saut"
+            },
+            {
+              "id": "B",
+              "text": "Le saut en hauteur"
+            },
+            {
+              "id": "C",
+              "text": "Le triple saut"
+            },
+            {
+              "id": "D",
+              "text": "La boxe"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 8,
+          "questionText": "Quand a été lancée la campagne agricole 2022-2023 ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Le 14 mai 2023"
+            },
+            {
+              "id": "B",
+              "text": "Le 8 mai 2023"
+            },
+            {
+              "id": "C",
+              "text": "Le 27 mai 2023"
+            },
+            {
+              "id": "D",
+              "text": "Le 1er juin 2023"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 9,
+          "questionText": "Combien de voix Dr Bougouma Ousmane a-t-il obtenu pour être désigné président de l'ALT ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "60"
+            },
+            {
+              "id": "B",
+              "text": "66"
+            },
+            {
+              "id": "C",
+              "text": "67"
+            },
+            {
+              "id": "D",
+              "text": "65"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 10,
+          "questionText": "Quel est le nom du mouvement mis en place après le coup d'État contre Bazoum ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "CNSP"
+            },
+            {
+              "id": "B",
+              "text": "CSPN"
+            },
+            {
+              "id": "C",
+              "text": "SCNP"
+            },
+            {
+              "id": "D",
+              "text": "DSNP"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 11,
+          "questionText": "Quelle est la part de l'État malien dans le nouveau code minier ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "30%"
+            },
+            {
+              "id": "B",
+              "text": "20%"
+            },
+            {
+              "id": "C",
+              "text": "22%"
+            },
+            {
+              "id": "D",
+              "text": "35%"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 12,
+          "questionText": "Le premier producteur d'or dans le monde est :",
+          "answers": [
+            {
+              "id": "A",
+              "text": "le Mali"
+            },
+            {
+              "id": "B",
+              "text": "l'Australie"
+            },
+            {
+              "id": "C",
+              "text": "la France"
+            },
+            {
+              "id": "D",
+              "text": "la Chine"
+            }
+          ],
+          "correctAnswers": [
+            "D"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 13,
+          "questionText": "Quelle est la date de décès de l'ancien président malien Boubacar Keita ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "17 janvier 2022"
+            },
+            {
+              "id": "B",
+              "text": "16 février 2022"
+            },
+            {
+              "id": "C",
+              "text": "16 janvier 2022"
+            },
+            {
+              "id": "D",
+              "text": "16 janvier 2023"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 14,
+          "questionText": "Combien y a-t-il de légions de la gendarmerie ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "7"
+            },
+            {
+              "id": "B",
+              "text": "8"
+            },
+            {
+              "id": "C",
+              "text": "6"
+            },
+            {
+              "id": "D",
+              "text": "5"
+            }
+          ],
+          "correctAnswers": [
+            "C"
+          ],
+          "comments": ""
+        },
+        {
+          "questionId": 15,
+          "questionText": "La journée mondiale de lutte contre le travail des enfants a lieu chaque 12 juin.  Vrai ou Faux ?",
+          "answers": [
+            {
+              "id": "A",
+              "text": "Vrai"
+            },
+            {
+              "id": "B",
+              "text": "Faux"
+            }
+          ],
+          "correctAnswers": [
+            "A"
+          ],
+          "comments": ""
+        }
+      ]
+    }
+  ]
+}

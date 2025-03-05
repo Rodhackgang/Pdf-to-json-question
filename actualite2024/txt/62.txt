@@ -1,0 +1,44 @@
+; Le circuit du Tour 2023
+
+‘ Etape 1. (Vendredi 27 octobre 2023): Ouagadougou-Pô (144 km),
+vainqueur: Paul Daumont
+
+| Etape 2: (Samedi 28 octobre 2023): Loumbila-Ziniaré (107, 2 km),
+vainqueur : Paul Daumont
+
+| Etape 3: (Dimanche 29 octobre 2023): Ouagadougou-
+
+| Ouagadougou (140 km), vainqueur: Wouters Rutger
+
+\ Etape 4: (Lundi 30 octobre 2023): Ouagadougou-Koupéla (136, 8
+
+km), vainqueur :Achraf Ed-Doghmy
+
+‘ Etape 5: (Mardi 31 octobre 2023) : Tenkodogo-Zorgho (75, 4 km),
+
+;; vainqueur : Paul Daumont
+
+\
+
+îb Etape 6: (Mercredi ler novembre 2023): Ouagadougou-
+
+| Koudougou (107, 6 km) , vainqueur : Paul Daumont |
+
+Etape 7: (Jeudi 2 novembre 2023) : Koudougou-Boromo (156 km),
+vainqueur : Adi Al Arbaoui
+
+: Etape 8: (Vendredi 3 novembre 2023): Bobo-Bobo (120 km),
+
+| vainqueur: Paul Daumont
+
+‘J Etape 9: (Samedi 4 novembre 2023): Bobo-Pa (126, 7 km),
+
+| vainqueur, Boureima Nana '
+
+L Etape 10: (Dimanche 5 novembre 2023): Saponé-Ouaga (112, 1 |
+
+k km), vainqueur: Achraf Ed- Doghmy
+
+î J
+
+Scanned by CamScanner
